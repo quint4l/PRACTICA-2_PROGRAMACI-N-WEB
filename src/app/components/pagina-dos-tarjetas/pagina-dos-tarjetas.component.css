@@ -1,0 +1,16 @@
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 50px;
+}
+
+.titulo {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.boton {
+  color: #1d7ece;
+  font-weight: bold;
+  text-decoration: none;
+}
