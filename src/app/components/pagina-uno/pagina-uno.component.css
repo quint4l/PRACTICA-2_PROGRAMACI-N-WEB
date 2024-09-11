@@ -21,12 +21,13 @@ body {
   flex-direction: column;
   height: 100vh;
   width: 100vw;
+  
 }
 
 /* Header con tamaño fijo y Flexbox */
 .header {
   display: flex;
-  justify-content: space-between; /* Distribuye los elementos a los extremos */
+ 
   align-items: center; /* Alinea verticalmente los elementos */
   height: 100px; /* Ajusta según sea necesario */
   padding: 0 16px; /* Espaciado horizontal interno */
@@ -41,17 +42,24 @@ body {
   flex: 1; /* Ocupa el espacio restante */
   padding: 16px; /* Espaciado interno */
   overflow: auto; /* Manejo del desbordamiento */
-  background: linear-gradient(to bottom, rgb(10, 84, 10), rgb(73, 185, 73));
+  background: linear-gradient(to bottom right, rgb(10, 84, 10) 75%, rgb(73, 185, 73)65%);
 }
 
 .header-left{
+   position: relative;
    font-family: 'Gill Sans';
    color: white;
+   left: 350px;
+ 
+   
 }
 
 .header-right {
+  position: relative;
   font-family: 'Franklin Gothic Medium';
   color: white;
+  top: 0.5px;
+  left: 1000px;
 }
 
 
