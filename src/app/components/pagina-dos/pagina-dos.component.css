@@ -5,10 +5,8 @@ body {
 }
 
 .header {
-  background-color: #3498db; /* Cambia este valor para usar el color de fondo que prefieras */
   text-align: center; /* Centra horizontalmente el contenido */
   padding: 20px 0; /* Espacio alrededor del contenido */
-  color: white; /* Cambia el color del texto para que sea visible */
   margin-top: 100px;
 }
 
@@ -37,7 +35,6 @@ h2 {
 }
 
 .box {
-  background-color: #f0f0f0; /* Color de fondo de cada div */
   padding: 15px; /* Espacio interno de cada div */
   text-align: center; /* Centra el texto en cada div */
   border-radius: 5px; /* Bordes redondeados */
@@ -47,7 +44,6 @@ h2 {
 h3 {
   margin: 0; /* Elimina márgenes predeterminados */
   font-size: 1em; /* Tamaño de fuente para los títulos de cada div */
-  color: #2c3e50;
 }
 
 .body {
