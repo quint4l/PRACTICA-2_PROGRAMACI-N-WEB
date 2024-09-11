@@ -8,37 +8,74 @@
 
 ### Encabezado (Header)
 - **Responsable:** CARLOS
-- **Duración:** 1 hora
+- **Duración:** 10 min
 
 ### Cuerpo (Body)
 - **Responsable:** CARLOS
-- **Duración:** 1 hora
+- **Duración:** 10 min
 
 ### Contenedor de Opciones de Pago (Grid)
 - **Responsable:** ALAN
-- **Duración:** 1 hora 30 minutos
+- **Duración:** 10 min
 
 ### Contenido del Grid
 - **Responsable:** ALAN
-- **Duración:** 1 hora 30 minutos
+- **Duración:** 25 min
 
 ## Página 2
 
 ### Encabezado (Header)
 - **Responsable:** GILDARDO
-- **Duración:** 1 hora
+- **Duración:** 10 min
 
 ### Cuerpo (Body)
 - **Responsable:** GILDARDO
-- **Duración:** 1 hora
+- **Duración:** 5 min
 
 ### Contenedor de Opciones de Pago (Grid)
 - **Responsable:** OSCAR
-- **Duración:** 1 hora
+- **Duración:** 10 min
 
 ### Contenido del Grid
 - **Responsable:** OSCAR
-- **Duración:** 1 hora 30 minutos
+- **Duración:** 20 min
 
 
-Este plan divide las tareas necesarias para crear la página web, asigna a los desarrolladores responsables, y estima el tiempo necesario para cada actividad.
+ PRACTICA 3. UTILIZACIÓN DE ESTILOS
+
+ ## Página 1
+
+### Encabezado (Header)
+- **Responsable:** CARLOS
+- **Duración:** 10 min
+
+### Cuerpo (Body)
+- **Responsable:** CARLOS
+- **Duración:** 15 min
+
+### Contenedor de Opciones de Pago (Grid)
+- **Responsable:** ALAN
+- **Duración:** 20 min
+
+### Contenido del Grid
+- **Responsable:** ALAN
+- **Duración:** 30 min
+
+## Página 2
+
+### Encabezado (Header)
+- **Responsable:** GILDARDO
+- **Duración:** 10 min
+
+### Cuerpo (Body)
+- **Responsable:** GILDARDO
+- **Duración:** 15 min
+
+### Contenedor de Opciones de Pago (Grid)
+- **Responsable:** OSCAR
+- **Duración:** 20 min
+
+### Contenido del Grid
+- **Responsable:** OSCAR
+- **Duración:** 20 min
+
